@@ -1,4 +1,4 @@
-#Building the Future, One Line of Code at a Time
+**Building the Future, One Line of Code at a Time**
 At JBL Development, we specialize in crafting high-quality, scalable, and innovative web solutions. Whether it’s custom websites, full-stack applications, or cutting-edge software, we are passionate about turning ideas into reality through clean, efficient, and modern code.
 
 **What We Do**
